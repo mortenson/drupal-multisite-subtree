@@ -1,0 +1,3 @@
+name = Example Custom Module
+description = An empty module that could contain custom code.
+core = 7.x
